@@ -500,7 +500,7 @@ console.log('Messages:', messages)
 ### Development Setup
 
 ```bash
-git clone https://github.com/JaiSonii/news-chatbot/tree/main
+git clone https://github.com/JaiSonii/news-chatbot-frontend
 cd frontend-vite
 npm install
 npm start
