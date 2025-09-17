@@ -57,7 +57,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 npm start
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) in your browser
+2. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 3. The app will automatically create a new session and connect to the backend
 
@@ -310,7 +310,7 @@ test('sends message on form submit', () => {
 
 ```bash
 npm start
-# Starts dev server on http://localhost:3000
+# Starts dev server on http://localhost:5173
 # Hot reloading enabled
 # Source maps included
 ```
